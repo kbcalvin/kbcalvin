@@ -1,34 +1,39 @@
-# Hi, I'm Kudakwashe Calvin Bamusi 👋
+# 👋 Hi, I'm Kudakwashe Calvin Bamusi
 
-### BSc Information Technology Graduate | Aspiring Data Analyst | Software & Database Developer
+### BSc Information Technology Graduate | Aspiring Data Analyst
 
-I'm an **Information Technology graduate** with a strong interest in **Data Analytics, SQL, Python, databases, and software development**.
+I'm an **Information Technology graduate** with a 2:1 degree and a growing focus on **Data Analytics, SQL, Python, databases, and business intelligence**.
 
-I enjoy turning problems into practical technology solutions and I'm currently building my skills in **data analysis, data visualisation, and business intelligence**.
+I enjoy solving practical problems with technology and turning data into insights that can support better decisions.
 
-🎓 **BSc Information Technology — 2:1**
-📊 **Aspiring Data Analyst**
-💻 **Software & Database Development**
-🌍 **Open to international graduate opportunities**
+🎓 BSc Information Technology — **2:1**
+📊 Aspiring Data Analyst
+💻 Software & Database Development
+🐍 Python & SQL — developing
+🌍 Open to graduate and international opportunities
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
 * 🎓 BSc Information Technology graduate from **Zimbabwe Open University**
 * 📊 Building a career in **Data Analytics and Business Intelligence**
-* 🐍 Developing my skills in **Python for Data Analysis**
-* 🗄️ Developing strong practical skills in **SQL and relational databases**
-* 💻 Experienced in building database-driven web applications
-* 🔎 Interested in transforming data into meaningful insights
-* 🧠 Passionate about problem solving and technology
-* 🌍 Open to international opportunities and relocation
+* 🐍 Developing practical skills in **Python, Pandas and data analysis**
+* 🗄️ Building practical experience with **SQL and MySQL**
+* 💻 Experience developing database-driven web applications
+* 🔎 Interested in data cleaning, exploratory analysis and data visualisation
+* 🧠 Strong interest in problem solving and technology
+* 🌍 Open to graduate opportunities and international relocation
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Data & Analytics
+### 📊 Data & Analytics
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
 
 * Python
 * SQL
@@ -36,10 +41,17 @@ I enjoy turning problems into practical technology solutions and I'm currently b
 * Data Cleaning
 * Exploratory Data Analysis
 * Data Visualisation
-* Statistics — developing
+* Basic Statistics
 * Power BI — developing
+* Pandas — developing
 
-### Programming & Web Development
+### 💻 Software & Web Development
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
 * PHP
 * JavaScript
@@ -47,52 +59,53 @@ I enjoy turning problems into practical technology solutions and I'm currently b
 * CSS3
 * Bootstrap
 
-### Databases
+### 🗄️ Databases & Tools
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 * MySQL
 * Relational Database Design
 * Database Normalisation
 * CRUD Operations
 * SQL Queries
-* Data Management
-
-### Tools
-
 * Git & GitHub
 * Visual Studio Code
 * XAMPP
-* Microsoft Office
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 ### 📚 Library Management System
 
-A database-driven library management system designed to manage books, users, borrowings, returns and penalties.
+A database-driven library management system developed to manage books, users, borrowing transactions, returns and penalties.
 
 **Key features:**
 
-* User authentication and role-based access
-* Book and user management
-* Book availability tracking
-* Borrowing and return management
-* Borrowing history
-* Overdue tracking
-* Penalty management
-* Notifications
+* 🔐 User authentication and role-based access
+* 📚 Book management
+* 👥 User management
+* 📦 Book availability tracking
+* 📅 Borrowing period management
+* 🔄 Borrowing and return management
+* 📋 Borrowing history
+* ⏰ Overdue tracking
+* ⚠️ Penalty management
+* 🔔 Notifications
 
-**Technologies:** PHP • MySQL • JavaScript • HTML • CSS • Bootstrap
+**Tech Stack:** PHP • MySQL • JavaScript • HTML • CSS • Bootstrap
 
-🔗 **[View Project](https://github.com/kbcalvin/LMS)**
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge\&logo=github)](https://github.com/kbcalvin/LMS)
 
 ---
 
 ### 🛡️ Smart Safety System for Electrical Cooking Appliances
 
-A technology-based project focused on improving safety around electrical cooking appliances through monitoring and automated safety concepts.
+A final-year IT project focused on developing a technology-based approach to improving safety around electrical cooking appliances.
 
-**Focus areas:**
+**Project focus:**
 
 * Problem identification
 * Requirements analysis
@@ -100,104 +113,104 @@ A technology-based project focused on improving safety around electrical cooking
 * Safety monitoring
 * Automation concepts
 * Testing and evaluation
+* Technical documentation
 
-**Technologies:** Systems Analysis • Software Development • Database Concepts
+**Focus Areas:** Systems Analysis • Software Development • Problem Solving
 
 ---
 
-### 📊 School Library Data Analytics — Coming Soon
+### 📊 School Library Data Analytics
 
-A data analytics project built around library management data to demonstrate practical **SQL, Python and data visualisation** skills.
+**Coming Soon**
 
-The project will investigate:
+A practical data analytics project using library data to demonstrate **SQL, Python and data visualisation** skills.
 
-* 📈 Borrowing trends
-* 📚 Most popular books
+The analysis will explore:
+
+* 📚 Most borrowed books
+* 📈 Monthly borrowing trends
 * 👥 User borrowing behaviour
 * ⏰ Late returns
-* 💰 Penalties
+* ⚠️ Penalties
 * 📦 Book utilisation
-* 📅 Monthly borrowing patterns
+* 📊 Book availability
 * 💡 Data-driven recommendations
 
-**Planned technologies:** Python • Pandas • SQL • MySQL • Matplotlib • Power BI
+**Planned Tech Stack:** Python • Pandas • SQL • MySQL • Matplotlib • Power BI
 
 ---
 
-## 📈 Currently Learning
+## 📚 Currently Learning
 
-```text
-Python for Data Analysis     ███████░░░  Developing
-SQL & Data Analysis          ███████░░░  Developing
-Excel & Data Analysis        ████████░░  Developing
-Power BI                     ██████░░░░  Developing
-Statistics                   ██████░░░░  Developing
-Data Visualisation           ███████░░░  Developing
-```
+I'm actively developing my data analytics skills through practical projects.
 
-I'm focused on building **real-world projects** rather than only completing tutorials.
+| Area                  | Focus                              |
+| --------------------- | ---------------------------------- |
+| 🐍 Python             | Data analysis & automation         |
+| 🗄️ SQL               | Data querying & analysis           |
+| 📊 Excel              | Data analysis & reporting          |
+| 🐼 Pandas             | Data manipulation & analysis       |
+| 📈 Power BI           | Dashboards & business intelligence |
+| 📉 Statistics         | Analytical foundations             |
+| 📊 Data Visualisation | Communicating insights             |
+
+> My goal is to learn by **building practical projects and solving real-world problems**.
 
 ---
 
-## 🎯 Career Goals
+## 🎯 Career Focus
 
-My goal is to build a career where I can combine:
+I'm building my career around the intersection of:
 
 **Technology + Data + Problem Solving**
 
-I'm particularly interested in opportunities involving:
+I'm particularly interested in:
 
-* Data Analysis
-* Business Intelligence
-* Data Science
-* Database Development
-* IT Systems
-* Technology Consulting
+* 📊 Data Analysis
+* 📈 Business Intelligence
+* 🐍 Python Data Analytics
+* 🗄️ SQL & Database Analysis
+* 🔎 Data-driven decision making
+* 💻 Information Technology
 
-I'm open to **graduate and entry-level international opportunities** where I can continue developing professionally and contribute to data-driven decision making.
+I'm currently seeking opportunities where I can continue developing my analytical and technical skills while contributing to meaningful projects.
 
 ---
 
 ## 📂 What You'll Find Here
 
-This GitHub profile documents my journey from **IT graduate to data professional**.
+This profile documents my journey from **IT graduate to data professional**.
 
-You can expect to find:
+Expect to find:
 
-📊 Data analytics projects
-🐍 Python projects
-🗄️ SQL/database projects
-💻 Software development projects
-📈 Data visualisations
-📚 Learning projects and experiments
+```text
+📊 Data Analytics Projects
+🐍 Python Projects
+🗄️ SQL & Database Projects
+📈 Data Visualisations
+💻 Software Development Projects
+🔬 Practical IT Projects
+📚 Learning & Experiments
+```
 
 ---
 
-## 🤝 Let's Connect
+## 📫 Let's Connect
 
-I'm always interested in connecting with other developers, data professionals and technology enthusiasts.
+I'm interested in connecting with developers, data analysts, technology professionals and organisations working on interesting problems.
 
 📧 **Email:** [kbcalvin27@gmail.com](mailto:kbcalvin27@gmail.com)
+
 💼 **GitHub:** [github.com/kbcalvin](https://github.com/kbcalvin/)
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+## ⚡ A Little About My Approach
 
-I'm continuously learning, building and improving — one project at a time.
+> **Learn. Build. Analyse. Improve.**
 
+I believe the best way to grow as a technology professional is to continuously learn, build practical solutions and use data to understand what works.
 
-<!--
-**kbcalvin/kbcalvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ **Thanks for visiting my profile!**
