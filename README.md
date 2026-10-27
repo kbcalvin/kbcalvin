@@ -1,216 +1,138 @@
-# 👋 Hi, I'm Kudakwashe Calvin Bamusi
+# Hi, I'm Kudakwashe Calvin Bamusi 👋
 
-### BSc Information Technology Graduate | Aspiring Data Analyst
+### BSc Information Technology Graduate | Software Engineering & Data Analytics
 
-I'm an **Information Technology graduate** with a 2:1 degree and a growing focus on **Data Analytics, SQL, Python, databases, and business intelligence**.
+I'm an Information Technology graduate from **Zimbabwe Open University**, with an **Upper Second Class (2:1)** degree and a passion for developing practical software solutions and turning data into useful insights.
 
-I enjoy solving practical problems with technology and turning data into insights that can support better decisions.
+My portfolio combines **backend development, database-driven applications, REST APIs and end-to-end data analytics**.
 
-🎓 BSc Information Technology — **2:1**
-📊 Aspiring Data Analyst
-💻 Software & Database Development
-🐍 Python & SQL — developing
-🌍 Open to graduate and international opportunities
-
----
-
-## 🧑‍💻 About Me
-
-* 🎓 BSc Information Technology graduate from **Zimbabwe Open University**
-* 📊 Building a career in **Data Analytics and Business Intelligence**
-* 🐍 Developing practical skills in **Python, Pandas and data analysis**
-* 🗄️ Building practical experience with **SQL and MySQL**
-* 💻 Experience developing database-driven web applications
-* 🔎 Interested in data cleaning, exploratory analysis and data visualisation
-* 🧠 Strong interest in problem solving and technology
-* 🌍 Open to graduate opportunities and international relocation
+I'm interested in graduate opportunities in **Software Engineering, Backend Development, Data Analytics and Business Intelligence**, including international opportunities.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 📊 Data & Analytics
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
-
-* Python
-* SQL
-* Microsoft Excel
-* Data Cleaning
-* Exploratory Data Analysis
-* Data Visualisation
-* Basic Statistics
-* Power BI — developing
-* Pandas — developing
-
-### 💻 Software & Web Development
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-
-* PHP
-* JavaScript
-* HTML5
-* CSS3
-* Bootstrap
-
-### 🗄️ Databases & Tools
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
-* MySQL
-* Relational Database Design
-* Database Normalisation
-* CRUD Operations
-* SQL Queries
-* Git & GitHub
-* Visual Studio Code
-* XAMPP
+| Area | Technologies & Skills |
+|---|---|
+| **Programming** | Java, Python, PHP, JavaScript, SQL |
+| **Backend Development** | Spring Boot, Spring Security, REST APIs, PHP |
+| **Databases** | PostgreSQL, MySQL, Spring Data JPA |
+| **Data Analytics** | Pandas, Matplotlib, Power BI, DAX, Excel |
+| **Frontend** | HTML5, CSS3, JavaScript, Bootstrap |
+| **Development Tools** | Git, GitHub, Maven, Docker, VS Code |
+| **Core Concepts** | Authentication, CRUD, Relational Databases, Data Cleaning, Data Visualisation |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📚 Library Management System
+### 💳 1. Ledger — Expense Tracker API
 
-A database-driven library management system developed to manage books, users, borrowing transactions, returns and penalties.
+**Java 21 | Spring Boot | PostgreSQL | Spring Security | JWT | Docker**
+
+A financial expense-tracking application combining a Spring Boot REST API with a responsive browser interface.
 
 **Key features:**
+- User registration and login
+- JWT-based authentication
+- Secure access to user-specific expense records
+- Expense creation and retrieval
+- Category-based expense summaries
+- PostgreSQL persistence and Flyway database migrations
+- Docker build configuration
 
-* 🔐 User authentication and role-based access
-* 📚 Book management
-* 👥 User management
-* 📦 Book availability tracking
-* 📅 Borrowing period management
-* 🔄 Borrowing and return management
-* 📋 Borrowing history
-* ⏰ Overdue tracking
-* ⚠️ Penalty management
-* 🔔 Notifications
+**Engineering focus:** REST API development, authentication, database integration and backend application architecture.
 
-**Tech Stack:** PHP • MySQL • JavaScript • HTML • CSS • Bootstrap
+**Current scope:** Expense updates, deletion and automated testing are planned improvements.
 
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge\&logo=github)](https://github.com/kbcalvin/LMS)
+🔗 [Explore Expense Tracker API](https://github.com/kbcalvin/expense-tracker-api)
 
----
+### 📊 2. School Library Data Analytics
 
-### 🛡️ Smart Safety System for Electrical Cooking Appliances
+**Python | Pandas | SQL | MySQL | Matplotlib | Power BI**
 
-A final-year IT project focused on developing a technology-based approach to improving safety around electrical cooking appliances.
+An end-to-end analytics project examining library borrowing patterns, textbook availability and overdue returns using synthetic data.
 
-**Project focus:**
+**Project highlights:**
+- Cleaned and analysed library datasets using Python and Pandas
+- Wrote SQL queries to investigate borrowing activity and inventory
+- Built data visualisations using Matplotlib
+- Developed an interactive Power BI dashboard
+- Produced findings and recommendations for library management
 
-* Problem identification
-* Requirements analysis
-* System design
-* Safety monitoring
-* Automation concepts
-* Testing and evaluation
-* Technical documentation
+**Selected results from the sample dataset:**
+- 30 borrowing transactions analysed
+- 10 textbook titles and 15 library users
+- 36.67% late return rate
+- Identified the most frequently borrowed textbooks and inventory availability patterns
 
-**Focus Areas:** Systems Analysis • Software Development • Problem Solving
+**Analytics focus:** Data preparation, SQL analysis, KPI reporting, business intelligence and communicating findings.
 
----
+*All project records are synthetic and used for portfolio demonstration.*
 
-### 📊 School Library Data Analytics
+🔗 [Explore School Library Data Analytics](https://github.com/kbcalvin/school-library-data-analytics)
 
-**Coming Soon**
+### 📚 3. Oak & Ink — Library Management System
 
-A practical data analytics project using library data to demonstrate **SQL, Python and data visualisation** skills.
+**PHP | MySQL | JavaScript | HTML | CSS**
 
-The analysis will explore:
+A database-driven web application for managing community library operations.
 
-* 📚 Most borrowed books
-* 📈 Monthly borrowing trends
-* 👥 User borrowing behaviour
-* ⏰ Late returns
-* ⚠️ Penalties
-* 📦 Book utilisation
-* 📊 Book availability
-* 💡 Data-driven recommendations
+**Key features:**
+- Member registration and account access
+- Book catalogue
+- Borrowing requests
+- Librarian approval workflow
+- Book returns
+- Database-backed library records
 
-**Planned Tech Stack:** Python • Pandas • SQL • MySQL • Matplotlib • Power BI
+**Engineering focus:** PHP application development, relational databases, user workflows and web application design.
 
----
-
-## 📚 Currently Learning
-
-I'm actively developing my data analytics skills through practical projects.
-
-| Area                  | Focus                              |
-| --------------------- | ---------------------------------- |
-| 🐍 Python             | Data analysis & automation         |
-| 🗄️ SQL               | Data querying & analysis           |
-| 📊 Excel              | Data analysis & reporting          |
-| 🐼 Pandas             | Data manipulation & analysis       |
-| 📈 Power BI           | Dashboards & business intelligence |
-| 📉 Statistics         | Analytical foundations             |
-| 📊 Data Visualisation | Communicating insights             |
-
-> My goal is to learn by **building practical projects and solving real-world problems**.
+🔗 [Explore Library Management System](https://github.com/kbcalvin/LMS)
 
 ---
 
-## 🎯 Career Focus
+## 🎓 Education
 
-I'm building my career around the intersection of:
-
-**Technology + Data + Problem Solving**
-
-I'm particularly interested in:
-
-* 📊 Data Analysis
-* 📈 Business Intelligence
-* 🐍 Python Data Analytics
-* 🗄️ SQL & Database Analysis
-* 🔎 Data-driven decision making
-* 💻 Information Technology
-
-I'm currently seeking opportunities where I can continue developing my analytical and technical skills while contributing to meaningful projects.
+**Bachelor of Science (BSc) in Information Technology**  
+Zimbabwe Open University  
+**Classification:** Upper Second Class (2:1)  
+**Graduation year:** 2026
 
 ---
 
-## 📂 What You'll Find Here
+## 📚 Currently Developing
 
-This profile documents my journey from **IT graduate to data professional**.
+I'm continuing to strengthen my software engineering and analytical capabilities through practical projects.
 
-Expect to find:
-
-```text
-📊 Data Analytics Projects
-🐍 Python Projects
-🗄️ SQL & Database Projects
-📈 Data Visualisations
-💻 Software Development Projects
-🔬 Practical IT Projects
-📚 Learning & Experiments
-```
+- **Frontend engineering:** Modern JavaScript, TypeScript and React
+- **Backend engineering:** Spring Boot, REST API design and automated testing
+- **Data analytics:** Python, SQL, Power BI and analytical problem-solving
+- **Software quality:** Testing, secure coding, version control and documentation
 
 ---
 
-## 📫 Let's Connect
+## 🎯 Career Interests
 
-I'm interested in connecting with developers, data analysts, technology professionals and organisations working on interesting problems.
+I'm particularly interested in opportunities where I can contribute to:
 
-📧 **Email:** [kbcalvin27@gmail.com](mailto:kbcalvin27@gmail.com)
+- Graduate Software Engineering
+- Backend and Full-Stack Development
+- Graduate Data Analytics
+- Business Intelligence and Reporting
+- Financial Technology and Data-Driven Applications
 
-💼 **GitHub:** [github.com/kbcalvin](https://github.com/kbcalvin/)
-
----
-
-## ⚡ A Little About My Approach
-
-> **Learn. Build. Analyse. Improve.**
-
-I believe the best way to grow as a technology professional is to continuously learn, build practical solutions and use data to understand what works.
+I value continuous learning, clear documentation and building solutions that address practical problems.
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+## 📫 Connect With Me
+
+- **GitHub:** [github.com/kbcalvin](https://github.com/kbcalvin)
+- **Email:** [kbcalvin27@gmail.com](mailto:kbcalvin27@gmail.com)
+
+---
+
+### Learn. Build. Analyse. Improve.
+
+*Thanks for visiting my GitHub profile and exploring my projects.*
